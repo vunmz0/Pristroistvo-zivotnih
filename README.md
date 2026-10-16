@@ -104,7 +104,7 @@ project/
 
 | Участник | Зона ответственности | GitHub |
 |----------|---------------------|--------|
-| Иванов Иван | Координация команды, Backend | [Профиль](https://github.com/) |
-| Петров Пётр | Серверная часть, БД, Tester | [Профиль](https://github.com/) |
-| Сидорова Анна | Frontend, Backend | [Профиль](https://github.com/) |
-| Смирнова Мария | Frontend, Дизайн, Figma | [Профиль](https://github.com/) |
+| Замахаев Илья | СТОЛБИК ПОМЕНЯТТЬКоординация команды, Backend | [Профиль](https://github.com/sauzeechka) |
+| Кипарисов Матвей | Серверная часть, БД, Tester | [Профиль](https://github.com/Mot-afk) |
+| Куншина Елена | Frontend, Backend | [Профиль](https://github.com/vunmz0) |
+| Саломова Махдия | Frontend, Дизайн, Figma | [Профиль](https://github.com/bleeba) |
